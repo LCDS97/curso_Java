@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.Aula01;
 
 public class PrimeiroPrograma {
 	

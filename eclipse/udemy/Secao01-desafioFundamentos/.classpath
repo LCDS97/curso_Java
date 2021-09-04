@@ -5,6 +5,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="desafio/Organizacao/|desafio.Organizacao/|desafio/VarAndConst/|desafio.VarAndConst/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/desafio.VarAndConst"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
