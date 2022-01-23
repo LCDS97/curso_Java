@@ -1,4 +1,4 @@
-package exercicios.TipoPrimitivos;
+package exercicios.Aula04;
 
 public class TiposPrimitivos {
 	
