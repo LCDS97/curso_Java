@@ -15,10 +15,12 @@ public class ConversaoTipoPrimitivoNumerico {
 		
 		// Quando você faz conversão explicita voce esta ciente que pode haver perda de valores
 		
-		
+		// Armazenando o 4 int em byte, outro exemplo de conversão explícita (CAST)
 		int c = 4;
 		byte d = (byte) c;
 		System.out.println(d);
+		
+		
 		
 
 	}
