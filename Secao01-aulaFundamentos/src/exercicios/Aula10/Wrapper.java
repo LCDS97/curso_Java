@@ -1,6 +1,5 @@
 package exercicios.Aula10;
 
-import java.util.Scanner;
 
 public class Wrapper {
 
