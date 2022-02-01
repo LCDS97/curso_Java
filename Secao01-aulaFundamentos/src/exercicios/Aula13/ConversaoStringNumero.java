@@ -11,6 +11,8 @@ public class ConversaoStringNumero {
 		
 		System.out.println(valor1 + valor2);
 		
+		
+		// Valor string sendo convertido para o Double
 		double numero1 = Double.parseDouble(valor1);
 		double numero2 = Double.parseDouble(valor2);
 		
